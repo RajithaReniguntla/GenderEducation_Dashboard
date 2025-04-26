@@ -46,6 +46,11 @@ This dashboard serves as a **valuable tool for policymakers**, enabling them to 
 > [World Bank Data Portal](https://databank.worldbank.org/reports.aspx?source=2&country=)
 
 ---
+## Disclaimer
+This project was developed as part of academic coursework and is shared here for educational and portfolio purposes only.
+Unauthorized use, reproduction, or distribution is not permitted and may violate academic integrity policies.
+
+---
 
 ## Note
 
