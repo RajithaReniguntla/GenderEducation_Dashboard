@@ -30,7 +30,7 @@ This dashboard serves as a **valuable tool for policymakers**, enabling them to 
 ## Project Structure
 - `education_gender.pbix`: Full Power BI dashboard file.
 - `/CSV Datasets`: Source dataset(s) used for analysis (raw datafiles from WorldBank).
-- `/Visuals`: Screenshots of key visuals (forpreview).
+- `/Visuals`: Screenshots of key visuals (for preview).
 
 ---
 
